@@ -28,3 +28,4 @@ temp/ — игнорировать весь каталог temp.<br>
 
 new line
 new line for commit IDE
+new line from commit IDE for gitlab 
