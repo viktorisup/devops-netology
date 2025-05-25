@@ -27,3 +27,4 @@ temp/ — игнорировать весь каталог temp.<br>
 /config — игнорировать каталог config в корне репозитория.<br>
 
 new line
+new line for commit IDE
